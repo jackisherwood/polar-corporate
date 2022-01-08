@@ -24,7 +24,10 @@
         </div>
 
         <!-- Contact section -->
-        <section class="relative bg-white pb-24 sm:pb-24" aria-labelledby="contact-heading">
+        <section
+          class="relative bg-white pb-24 sm:pb-24"
+          aria-labelledby="contact-heading"
+        >
           <div
             class="absolute w-full h-1/2 bg-warm-gray-50"
             aria-hidden="true"
@@ -65,7 +68,7 @@
               />
             </svg>
           </div>
-          
+
           <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="relative bg-white shadow-xl">
               <h2 id="contact-heading" class="sr-only">Contact us</h2>
@@ -259,8 +262,9 @@
                     Send us a message
                   </h3>
                   <form
-                    action="#"
+                    name="contact"
                     method="POST"
+                    data-netlify="true"
                     class="mt-6 grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:gap-x-8"
                   >
                     <div>
