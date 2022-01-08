@@ -85,12 +85,12 @@
           </div>
           <div class="pt-5 pb-6">
             <div class="px-2 space-y-1">
-              <a
+              <router-link
                 v-for="item in navigation"
                 :key="item.name"
-                :href="item.href"
+                :to="item.href"
                 class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 hover:bg-gray-50"
-                >{{ item.name }}</a
+                >{{ item.name }}</router-link
               >
             </div>
             <div class="mt-6 px-5">
