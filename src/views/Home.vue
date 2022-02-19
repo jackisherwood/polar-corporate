@@ -5,38 +5,6 @@
       <main>
         <hero />
 
-        <!-- Feature section with screenshot -->
-        <div class="relative bg-gray-50 pt-16 sm:pt-24 lg:pt-32">
-          <div
-            class="mx-auto max-w-md px-4 text-center sm:px-6 sm:max-w-3xl lg:px-8 lg:max-w-7xl"
-          >
-            <div>
-              <h2
-                class="text-base font-semibold tracking-wider text-cyan-600 uppercase"
-              >
-                Serverless
-              </h2>
-              <p
-                class="mt-2 text-3xl font-extrabold text-gray-900 tracking-tight sm:text-4xl"
-              >
-                No server? No problem.
-              </p>
-              <p class="mt-5 max-w-prose mx-auto text-xl text-gray-500">
-                Phasellus lorem quam molestie id quisque diam aenean nulla in.
-                Accumsan in quis quis nunc, ullamcorper malesuada. Eleifend
-                condimentum id viverra nulla.
-              </p>
-            </div>
-            <div class="mt-12 -mb-10 sm:-mb-24 lg:-mb-80">
-              <img
-                class="rounded-lg shadow-xl ring-1 ring-black ring-opacity-5"
-                src="https://tailwindui.com/img/component-images/green-project-app-screenshot.jpg"
-                alt=""
-              />
-            </div>
-          </div>
-        </div>
-
         <!-- Feature section with grid -->
         <div class="relative bg-white py-16 sm:py-24 lg:py-32">
           <div
@@ -45,17 +13,15 @@
             <h2
               class="text-base font-semibold tracking-wider text-cyan-600 uppercase"
             >
-              Deploy faster
+              About PolarCI
             </h2>
             <p
               class="mt-2 text-3xl font-extrabold text-gray-900 tracking-tight sm:text-4xl"
             >
-              Everything you need to deploy your app
+              We  work on the things we care about
             </p>
             <p class="mt-5 max-w-prose mx-auto text-xl text-gray-500">
-              Phasellus lorem quam molestie id quisque diam aenean nulla in.
-              Accumsan in quis quis nunc, ullamcorper malesuada. Eleifend
-              condimentum id viverra nulla.
+              We are a team of designers, developers, marketers and technology experts that care about the projects and people that we work with
             </p>
             <div class="mt-12">
               <div class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
@@ -93,66 +59,6 @@
           </div>
         </div>
 
-        <!-- Testimonial section -->
-        <div
-          class="pb-16 bg-gradient-to-r from-teal-500 to-cyan-600 lg:pb-0 lg:z-10 lg:relative"
-        >
-          <div
-            class="lg:mx-auto lg:max-w-7xl lg:px-8 lg:grid lg:grid-cols-3 lg:gap-8"
-          >
-            <div class="relative lg:-my-8">
-              <div
-                aria-hidden="true"
-                class="absolute inset-x-0 top-0 h-1/2 bg-white lg:hidden"
-              />
-              <div
-                class="mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:p-0 lg:h-full"
-              >
-                <div
-                  class="aspect-w-10 aspect-h-6 rounded-xl shadow-xl overflow-hidden sm:aspect-w-16 sm:aspect-h-7 lg:aspect-none lg:h-full"
-                >
-                  <img
-                    class="object-cover lg:h-full lg:w-full"
-                    src="https://images.unsplash.com/photo-1520333789090-1afc82db536a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2102&q=80"
-                    alt=""
-                  />
-                </div>
-              </div>
-            </div>
-            <div class="mt-12 lg:m-0 lg:col-span-2 lg:pl-8">
-              <div
-                class="mx-auto max-w-md px-4 sm:max-w-2xl sm:px-6 lg:px-0 lg:py-20 lg:max-w-none"
-              >
-                <blockquote>
-                  <div>
-                    <svg
-                      class="h-12 w-12 text-white opacity-25"
-                      fill="currentColor"
-                      viewBox="0 0 32 32"
-                      aria-hidden="true"
-                    >
-                      <path
-                        d="M9.352 4C4.456 7.456 1 13.12 1 19.36c0 5.088 3.072 8.064 6.624 8.064 3.36 0 5.856-2.688 5.856-5.856 0-3.168-2.208-5.472-5.088-5.472-.576 0-1.344.096-1.536.192.48-3.264 3.552-7.104 6.624-9.024L9.352 4zm16.512 0c-4.8 3.456-8.256 9.12-8.256 15.36 0 5.088 3.072 8.064 6.624 8.064 3.264 0 5.856-2.688 5.856-5.856 0-3.168-2.304-5.472-5.184-5.472-.576 0-1.248.096-1.44.192.48-3.264 3.456-7.104 6.528-9.024L25.864 4z"
-                      />
-                    </svg>
-                    <p class="mt-6 text-2xl font-medium text-white">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Sed urna nulla vitae laoreet augue. Amet feugiat est
-                      integer dolor auctor adipiscing nunc urna, sit.
-                    </p>
-                  </div>
-                  <footer class="mt-6">
-                    <p class="text-base font-medium text-white">Judith Black</p>
-                    <p class="text-base font-medium text-cyan-100">
-                      CEO at PureInsights
-                    </p>
-                  </footer>
-                </blockquote>
-              </div>
-            </div>
-          </div>
-        </div>
-
         <div class="relative bg-gray-50 py-16 sm:py-24 lg:py-32">
           <div
             class="mx-auto max-w-md px-4 text-center sm:px-6 sm:max-w-3xl lg:px-8 lg:max-w-7xl"
@@ -161,16 +67,15 @@
               <h2
                 class="text-base font-semibold tracking-wider text-cyan-600 uppercase"
               >
-                Reliable
+                Our team is Reliable, Experienced & Productive
               </h2>
               <p
                 class="mt-2 text-3xl font-extrabold text-gray-900 tracking-tight sm:text-4xl"
               >
-                Trusted by developers from over 80 planets
+                Trusted by thousands of companies and clients
               </p>
               <p class="mt-5 max-w-prose mx-auto text-xl text-gray-500">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Repellendus repellat laudantium.
+                Collectively our team has been delivering great software for decades
               </p>
             </div>
               <dl
@@ -180,26 +85,26 @@
                 <dt
                   class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500"
                 >
-                  Pepperoni
+                  Projects Completed
                 </dt>
-                <dd class="order-1 text-5xl font-extrabold text-gray-900">100%</dd>
+                <dd class="order-1 text-5xl font-extrabold text-gray-900">150+</dd>
               </div>
               <div class="flex flex-col mt-10 sm:mt-0">
                 <dt
                   class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500"
                 >
-                  Delivery
+                  Lines of Code
                 </dt>
-                <dd class="order-1 text-5xl font-extrabold text-gray-900">24/7</dd>
+                <dd class="order-1 text-5xl font-extrabold text-gray-900">2.5M+</dd>
               </div>
               <div class="flex flex-col mt-10 sm:mt-0">
                 <dt
                   class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500"
                 >
-                  Calories
+                  Compute Events
                 </dt>
                 <dd class="order-1 text-5xl font-extrabold text-gray-900">
-                  100k+
+                  10T+
                 </dd>
               </div>
             </dl>
@@ -213,12 +118,12 @@
           >
             <img
               class="w-full h-full object-cover"
-              src="https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&q=60&sat=-100"
+              src="https://polarci-a171f.web.app/img/screenshot.png"
               alt=""
             />
             <div
               aria-hidden="true"
-              class="absolute inset-0 bg-gradient-to-r from-teal-500 to-cyan-600 mix-blend-multiply"
+              class="absolute inset-0 bg-gradient-to-r from-teal-100 to-cyan-100 mix-blend-multiply"
             />
           </div>
           <div
@@ -228,26 +133,26 @@
               <h2
                 class="text-base font-semibold uppercase tracking-wider text-gray-300"
               >
-                Award winning support
+                A Polar/CI Original
               </h2>
               <p
                 class="mt-2 text-white text-3xl font-extrabold tracking-tight sm:text-4xl"
               >
-                We’re here to help
+                Trading software for everyone
               </p>
               <p class="mt-3 text-lg text-gray-300">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et,
-                egestas tempus tellus etiam sed. Quam a scelerisque amet
-                ullamcorper eu enim et fermentum, augue. Aliquet amet volutpat
-                quisque ut interdum tincidunt duis.
+                When we aren't busy building custom software for our clients, we also create our own originals.
+                <br/>
+                <br/>
+                Investing and trading cryptocurrencies just got a whole lot easier. Take the guesswork out of trading and get signaled when it's the right time to buy or sell your favorite cryptocurrency.
               </p>
               <div class="mt-8">
                 <div class="inline-flex rounded-md shadow">
                   <a
-                    href="#"
+                    href="https://polarci-a171f.web.app/"
                     class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-gray-900 bg-white hover:bg-gray-50"
                   >
-                    Visit the help center
+                     Get our trading app
                     <ExternalLinkIcon
                       class="-mr-1 ml-3 h-5 w-5 text-gray-400"
                       aria-hidden="true"
@@ -260,84 +165,6 @@
         </div>
       </main>
       <polar-footer />
-      <!-- <footer class="bg-gray-50" aria-labelledby="footer-heading">
-        <h2 id="footer-heading" class="sr-only">Footer</h2>
-        <div class="max-w-md mx-auto pt-12 px-4 sm:max-w-7xl sm:px-6 lg:pt-16 lg:px-8">
-          <div class="xl:grid xl:grid-cols-3 xl:gap-8">
-            <div class="space-y-8 xl:col-span-1">
-              <img class="h-10" src="https://tailwindui.com/img/logos/workflow-mark-gray-300.svg" alt="Company name" />
-              <p class="text-gray-500 text-base">
-                Making the world a better place through constructing elegant hierarchies.
-              </p>
-              <div class="flex space-x-6">
-                <a v-for="item in footerNavigation.social" :key="item.name" :href="item.href" class="text-gray-400 hover:text-gray-500">
-                  <span class="sr-only">{{ item.name }}</span>
-                  <component :is="item.icon" class="h-6 w-6" aria-hidden="true" />
-                </a>
-              </div>
-            </div>
-            <div class="mt-12 grid grid-cols-2 gap-8 xl:mt-0 xl:col-span-2">
-              <div class="md:grid md:grid-cols-2 md:gap-8">
-                <div>
-                  <h3 class="text-sm font-semibold text-gray-400 tracking-wider uppercase">
-                    Solutions
-                  </h3>
-                  <ul role="list" class="mt-4 space-y-4">
-                    <li v-for="item in footerNavigation.solutions" :key="item.name">
-                      <a :href="item.href" class="text-base text-gray-500 hover:text-gray-900">
-                        {{ item.name }}
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-                <div class="mt-12 md:mt-0">
-                  <h3 class="text-sm font-semibold text-gray-400 tracking-wider uppercase">
-                    Support
-                  </h3>
-                  <ul role="list" class="mt-4 space-y-4">
-                    <li v-for="item in footerNavigation.support" :key="item.name">
-                      <a :href="item.href" class="text-base text-gray-500 hover:text-gray-900">
-                        {{ item.name }}
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div class="md:grid md:grid-cols-2 md:gap-8">
-                <div>
-                  <h3 class="text-sm font-semibold text-gray-400 tracking-wider uppercase">
-                    Company
-                  </h3>
-                  <ul role="list" class="mt-4 space-y-4">
-                    <li v-for="item in footerNavigation.company" :key="item.name">
-                      <a :href="item.href" class="text-base text-gray-500 hover:text-gray-900">
-                        {{ item.name }}
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-                <div class="mt-12 md:mt-0">
-                  <h3 class="text-sm font-semibold text-gray-400 tracking-wider uppercase">
-                    Legal
-                  </h3>
-                  <ul role="list" class="mt-4 space-y-4">
-                    <li v-for="item in footerNavigation.legal" :key="item.name">
-                      <a :href="item.href" class="text-base text-gray-500 hover:text-gray-900">
-                        {{ item.name }}
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="mt-12 border-t border-gray-200 py-8">
-            <p class="text-base text-gray-400 xl:text-center">
-              &copy; 2020 Workflow, Inc. All rights reserved.
-            </p>
-          </div>
-        </div>
-      </footer> -->
     </div>
   </div>
 </template>
@@ -368,21 +195,21 @@ const navigation = [
 ];
 const features = [
   {
-    name: "Push to Deploy",
+    name: "Big Data & IoT",
     description:
-      "Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi vitae lobortis.",
+      "Increasingly, everything is connected to the internet. From people, computers and sensors to medical devices. We build solutions that capture events, behaviours, intent and activities in order to analyze and visualize what each are doing.",
     icon: CloudUploadIcon,
   },
   {
-    name: "SSL Certificates",
+    name: "Web & Mobile",
     description:
-      "Qui aut temporibus nesciunt vitae dicta repellat sit dolores pariatur. Temporibus qui illum aut.",
+      "The web is not dead, but there are more mobile-first start ups than ever. Our approach is to leverage HTML5 technologies to deliver great experiences on all platforms including desktops, iOS and Android.",
     icon: LockClosedIcon,
   },
   {
-    name: "Simple Queues",
+    name: "Cloud & Consult",
     description:
-      "Rerum quas incidunt deleniti quaerat suscipit mollitia. Amet repellendus ut odit dolores qui.",
+      "The cloud is more than an overused and cliched term. For startups trying to stay lean and conserve capital it's a necessity, for established companies it promises competitive advantages. We can help with any cloud deployment or migration.",
     icon: RefreshIcon,
   },
   {
