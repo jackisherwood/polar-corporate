@@ -4,10 +4,10 @@
       <nav class="relative max-w-7xl mx-auto flex items-center justify-between px-4 sm:px-6" aria-label="Global">
         <div class="flex justify-between flex-1">
           <div class="flex items-center justify-between w-full md:w-auto">
-            <a href="#" class='flex'>
+            <router-link to="/" class='flex'>
               <img class="h-8 w-auto" src="/img/polar-logo.png" alt="" />
               <h1 class='text-white ml-2 mt-1 text-lg subpixel-antialiased font-semibold	'>Polar/CI</h1>
-            </a>
+            </router-link>
             <div class="-mr-2 flex items-center md:hidden">
               <PopoverButton
                 class="bg-gray-900 rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:bg-gray-800 focus:outline-none focus:ring-2 focus-ring-inset focus:ring-white">
