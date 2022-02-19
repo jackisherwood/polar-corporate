@@ -47,7 +47,7 @@
           <div class="mx-auto max-w-md px-4 text-center sm:px-6 sm:max-w-3xl lg:px-8 lg:max-w-7xl">
             <div>
               <h2 class="text-base font-semibold tracking-wider text-cyan-600 uppercase">
-                Our team is Reliable, Experienced & Productive
+                Our team is Experienced & Productive
               </h2>
               <p class="mt-2 text-3xl font-extrabold text-gray-900 tracking-tight sm:text-4xl">
                 Trusted by thousands of companies and clients
