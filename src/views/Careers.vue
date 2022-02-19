@@ -52,11 +52,11 @@
               </p>
 
               <p class='mt-10'>
-                <a href="/contact">
+                <router-link to="/contact"> 
                   <button class="bg-cyan-500 hover:bg-cyan-700 text-white font-bold py-2 px-4 rounded">
                     Join the team
                   </button>
-                </a>
+                </router-link>
               </p>
             </div>
           </div>
