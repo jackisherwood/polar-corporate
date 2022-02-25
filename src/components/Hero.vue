@@ -20,7 +20,7 @@
                 software</span>
             </h1>
             <p class="text-base text-gray-300 sm:text-xl lg:text-lg xl:text-xl">
-              PolarCI is digital studio that designs, builds and deploys applications for the web, mobile, IoT,
+              Polar/CI is digital studio that designs, builds and deploys applications for the web, mobile, IoT,
               blockchain and cloud.
             </p>
           </div>

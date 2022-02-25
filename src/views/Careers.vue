@@ -12,7 +12,7 @@
                 Join our team
               </h1>
               <p class="mt-6 text-xl text-base text-gray-300 max-w-3xl">
-                PolarCI is digital studio that designs, builds and deploys applications for the web, mobile, IoT,
+                Polar/CI is digital studio that designs, builds and deploys applications for the web, mobile, IoT,
                 blockchain and cloud.
               </p>
             </div>
